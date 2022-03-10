@@ -351,3 +351,4 @@ MigrationBackup/
 
 #CSV Files
 .CSV
+*.csv
